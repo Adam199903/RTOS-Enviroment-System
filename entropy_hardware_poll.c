@@ -7,10 +7,6 @@
  *
  * this is heavily based on the example from https://www2.keil.com/iot/32f746gdiscovery
  * (just with more commenting so I actually understand what's going on!)
- *
- * author:    Dr. Alex Shenfield
- * date:      17/11/2020
- * purpose:   55-604481 embedded computer networks - lab 104
  */
 
 // includes
