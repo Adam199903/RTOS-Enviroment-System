@@ -3,10 +3,6 @@
  *
  * initialise the wifi module and connect to the specified access point
  * using the supplied credentials
- *
- * author:    Dr. Alex Shenfield
- * date:      17/11/2020
- * purpose:   55-604481 embedded computer networks - lab 104
  */
 
 // include functions from the standard c libraries
