@@ -1,13 +1,9 @@
 /*
- * my_credentials.h
- *
- * this is the header file containing my wifi credentials and mqtt account
+Â * my_credentials.h
+Â *
+Â * this is the header file containing my wifi credentials and mqtt account
  * details (if needed)
- *
- * author:    Dr. Alex Shenfield
- * date:      17/11/2020
- * purpose:   55-604481 embedded computer networks - lab 104
- */
+Â */
 
 // define to prevent recursive inclusion
 #ifndef __CREDS_H
