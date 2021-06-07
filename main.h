@@ -1,13 +1,3 @@
-/*
- * main.h
- *
- * header file for our wifi enabled mqtt example
- *
- * author:    Dr. Alex Shenfield
- * date:      17/11/2020
- * purpose:   55-604481 embedded computer networks - lab 104
- */
-
 // define to prevent recursive inclusion
 #ifndef __MAIN_H
 #define __MAIN_H
