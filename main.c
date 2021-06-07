@@ -7,10 +7,6 @@
  * in this file we configure the clock settings for the microcontroller, set up
  * some of the peripherals, create the main thread (defined in a separate
  * file), and then pass control to the RTOS kernel.
- *
- * author:    Dr. Alex Shenfield
- * date:      17/11/2020
- * purpose:   55-604481 embedded computer networks - lab 104
  */
 
 // include our main.h file
